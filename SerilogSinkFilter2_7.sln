@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogSinkFilter2_6", "SerilogSinkFilter2_6\SerilogSinkFilter2_6.csproj", "{CFB00277-AED4-4DBF-94ED-01D04856C34D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogSinkFilter2_7", "SerilogSinkFilter2_6\SerilogSinkFilter2_7.csproj", "{CFB00277-AED4-4DBF-94ED-01D04856C34D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
